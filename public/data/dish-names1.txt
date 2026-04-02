@@ -1,0 +1,49 @@
+Here are all the dishes extracted from the Al Taj menu:
+
+
+Mix Pakora, Onion Bhaggi, Panir Pakora, Baingan Pakora, Fish Pakora, Gamberetti Pakora, Chicken Pakora, Sabzi Samosa, Gool Gappe, Samosa Chat, Samosa Plate, Veggie Tikki, Patatine, Patatine Spirale, Nuggets, Alette di Pollo, Popcorn Pollo, Mozzarella Stick
+
+
+Chicken Tikka Tandoor, Chicken Tandoor, Malai Tikka Tandoor, Mix Grill Al-Taj, Chicken Wings, Chicken Cheese Kebab, Seikh Kebab, Chicken Seikh Kebab, Fish Tikka Tandoor, Gamberoni Tandoor, Tandoori Charga, Bistecca di Pollo, Bistecca di Manzo, Costata di Manzo, Costata di Agnello, Spiedini di Pollo, Kofte Grill
+
+Mix Sabzi, Palik Paneer, Okra (Bindi) Masalla, Karella Masalla, Alo Palak, Channa Paneer, Shahi Paneer, Karai Paneer, Allo Matar, Bengan Bartha, Novratan Korma
+
+Daal Chana, Daal Mash, Daal Makhni, Daal Masoor
+
+
+Mughlai Chicken Korma, Chicken Curry, Chicken Krai, Madras Chicken Curry, Chicken Vindaloo, Chicken Chilli Taj, Chicken Palik, Chicken Jalfrezi, Chicken Tikka Masalla, Butter Chicken, Chicken Sweet e Suver
+
+Lamb Curry, Lamb Madras Curry, Lamb Karai, Lamb Moughlai Korma, Lamb Korma, Lamb Vindaloo, Lamb Palik, Kima Mattr, Aloo Kima
+
+
+Goa Fish Curry, Kirla Fish Curry, Fish Jalfrezi, Gamberi Curry, Gamberi Masala
+
+
+Chicken Biryani, Lamb Biryani, Sekh Kebab Biryani, Jungli Pilao, Gamberi Biryani, Chicken Tikka Biryani, Sabzi Biryani, Mutter Pilao, Zeera Rice, Riso Basmatti
+
+
+Chicken Corn Soup, Tomatoes Soup, Daal Soup, Zuppa di Verdure
+
+
+Rotti, Naan Aloo, Naan Sada "O" Roghni, Naan Afghani, Naan Paneer, Naan Kima, Naan Garlic, Kulcha
+
+
+Gajrela, Ras Malay, Kheer, Gulab Jaman, Ras Gulla, Barfi, Coconut Halwa, Akhrot Halwa
+
+
+Marinara, Margrita, Funghi, Carciofi, Prosciutto, Prosciutto Funghi, Capriciosa, Quatro Stagioni, Genovese, Porcini, Calamari, Saporita, Diavola, Rucolina, Suocera, Quatro Formaggi, Würstel Halal, Patatine, Americana, Napoli, Romana, Salame Piccante, Pugliese, Grogonzola, Pizza Kebab, Caprese, Parmigiana, Margellina, Veggitirana, Gamberi, Doc, Pizza Chiari, Salame Gorgo, Bavarese
+
+
+Italia, Novella, Al Taj, Mare e Monti, Costiera, Gorgo Asparagi, Stella, Gorgo Noci, Delizia, Pizza Punjabi
+
+
+Gamberi Zucchin, Bufalina, Valtellina, Trevisana, Taggiasca, Calabrese, Mediterranea
+
+
+Calzone Normale, Calzone Farcito, Calzone Arrabbiato, Calzone Kebab, Calzone Liscia
+
+
+Mareblu, Costa, Estiva, Lombarda, Isola, Kebab, Seikh Kebab
+
+
+Mista, Tonno, Insalata Taj Piccola, Insalata Taj Grande, Pollo

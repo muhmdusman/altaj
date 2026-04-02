@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 
 interface TableFormData {
   fullName: string;
@@ -25,6 +25,35 @@ const HomeTable = () => {
 
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+  const [isTimeFocused, setIsTimeFocused] = useState(false);
+  const dateInputRef = useRef<HTMLInputElement>(null);
+  const timeInputRef = useRef<HTMLInputElement>(null);
+
+  const openInputPicker = (input: HTMLInputElement | null) => {
+    if (!input || isSubmitting) return;
+
+    input.focus();
+
+    const pickerInput = input as HTMLInputElement & {
+      showPicker?: () => void;
+    };
+
+    if (typeof pickerInput.showPicker === 'function') {
+      try {
+        pickerInput.showPicker();
+      } catch {
+        // Some browsers may block showPicker in restricted contexts.
+      }
+    }
+  };
+
+  const handleDateInputClick = () => {
+    openInputPicker(dateInputRef.current);
+  };
+
+  const handleTimeInputClick = () => {
+    openInputPicker(timeInputRef.current);
+  };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
@@ -147,10 +176,12 @@ const HomeTable = () => {
       <div className="grid grid-cols-2 gap-4">
         <div className="relative group">
           <input
+            ref={dateInputRef}
             type="date"
             name="date"
             value={formData.date}
             onChange={handleChange}
+            onClick={handleDateInputClick}
             required
             disabled={isSubmitting}
             className="w-full px-4 py-3 bg-white/5 border-2 border-[#D4A541]/30 rounded-xl focus:border-[#D4A541] focus:bg-white/10 transition-all duration-300 outline-none text-white group-hover:border-[#D4A541]/50 [color-scheme:dark]"
@@ -160,14 +191,25 @@ const HomeTable = () => {
         
         <div className="relative group">
           <input
+            ref={timeInputRef}
             type="time"
             name="time"
             value={formData.time}
             onChange={handleChange}
+            onClick={handleTimeInputClick}
+            onFocus={() => setIsTimeFocused(true)}
+            onBlur={() => setIsTimeFocused(false)}
             required
             disabled={isSubmitting}
-            className="w-full px-4 py-3 bg-white/5 border-2 border-[#D4A541]/30 rounded-xl focus:border-[#D4A541] focus:bg-white/10 transition-all duration-300 outline-none text-white group-hover:border-[#D4A541]/50 [color-scheme:dark]"
+            className={`w-full px-4 py-3 bg-white/5 border-2 border-[#D4A541]/30 rounded-xl focus:border-[#D4A541] focus:bg-white/10 transition-all duration-300 outline-none group-hover:border-[#D4A541]/50 [color-scheme:dark] ${
+              formData.time ? 'text-white' : 'text-transparent'
+            }`}
           />
+          {!formData.time && !isTimeFocused && (
+            <span className="absolute left-4 top-1/2 -translate-y-1/2 text-white/70 pointer-events-none">
+              Time
+            </span>
+          )}
           <div className="absolute inset-0 rounded-xl bg-gradient-to-r from-[#D4A541]/0 to-[#D4A541]/0 group-hover:from-[#D4A541]/5 group-hover:to-[#D4A541]/5 pointer-events-none transition-all duration-300"></div>
         </div>
       </div>

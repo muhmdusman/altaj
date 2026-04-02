@@ -1,5 +1,5 @@
 // Service Worker for Al Taj Ristorante PWA
-const CACHE_NAME = 'altaj-cache-v1';
+const CACHE_NAME = 'altaj-cache-v3';
 const urlsToCache = [
   '/',
   '/menu',
@@ -7,6 +7,8 @@ const urlsToCache = [
   '/ourstory',
   '/tablebooking',
   '/order',
+  '/manifest.json',
+  '/manifest.webmanifest',
 ];
 
 // Install event - cache important resources
@@ -43,8 +45,41 @@ self.addEventListener('activate', (event) => {
 
 // Fetch event - serve from cache, fallback to network
 self.addEventListener('fetch', (event) => {
+  const request = event.request;
+
+  // Cache API only supports GET requests.
+  if (request.method !== 'GET') {
+    return;
+  }
+
+  const requestUrl = new URL(request.url);
+
+  // Only handle same-origin HTTP(S) requests.
+  if (requestUrl.origin !== self.location.origin) {
+    return;
+  }
+
+  // Use network-first for navigation to avoid stale HTML shells.
+  if (request.mode === 'navigate') {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response && response.status === 200 && response.type === 'basic') {
+            const responseToCache = response.clone();
+            caches.open(CACHE_NAME).then((cache) => {
+              cache.put('/', responseToCache);
+            });
+          }
+
+          return response;
+        })
+        .catch(() => caches.match('/'))
+    );
+    return;
+  }
+
   event.respondWith(
-    caches.match(event.request)
+    caches.match(request)
       .then((response) => {
         // Cache hit - return response
         if (response) {
@@ -52,7 +87,7 @@ self.addEventListener('fetch', (event) => {
         }
 
         // Clone the request
-        const fetchRequest = event.request.clone();
+        const fetchRequest = request.clone();
 
         return fetch(fetchRequest).then((response) => {
           // Check if valid response
@@ -65,15 +100,19 @@ self.addEventListener('fetch', (event) => {
 
           caches.open(CACHE_NAME)
             .then((cache) => {
-              cache.put(event.request, responseToCache);
+              cache.put(request, responseToCache);
             });
 
           return response;
         });
       })
       .catch(() => {
-        // Return offline page if available
-        return caches.match('/');
+        // Return offline shell only for navigation requests.
+        if (request.mode === 'navigate') {
+          return caches.match('/');
+        }
+
+        return Response.error();
       })
   );
 });

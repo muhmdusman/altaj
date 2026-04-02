@@ -15,6 +15,20 @@ interface MenuItem {
   category: string;
 }
 
+function getCategorySlug(category: string): string {
+  return category
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function formatCategoryLabel(category: string): string {
+  return category
+    .toLowerCase()
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
 // Group menu items by category
 function groupItemsByCategory(items: MenuItem[]): Record<string, MenuItem[]> {
   return items.reduce((acc, item) => {
@@ -120,17 +134,12 @@ const MenuPage = () => {
         </div>
       </div>
 
-      {/* Menu Categories */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {orderedCategories.map((category) => {
           const items = groupedItems[category];
           if (!items || items.length === 0) return null;
 
-          // Create a slug from category name for the ID
-          const categorySlug = category
-            .toLowerCase()
-            .replace(/\s+/g, "-")
-            .replace(/_/g, "-");
+          const categorySlug = getCategorySlug(category);
 
           return (
             <section
@@ -141,8 +150,8 @@ const MenuPage = () => {
               {/* Category Header */}
               <div className="text-center mb-8 lg:mb-12">
                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4">
-                  <span className="text-[#D4A541]">{category.charAt(0)}</span>
-                  {category.slice(1).toLowerCase().replace(/_/g, " ")}
+                  <span className="text-[#D4A541]">{formatCategoryLabel(category).charAt(0)}</span>
+                  {formatCategoryLabel(category).slice(1)}
                 </h2>
                 <div className="flex justify-center items-center space-x-4">
                   <div className="w-12 h-0.5 bg-[#D4A541]"></div>

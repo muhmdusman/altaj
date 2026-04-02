@@ -6,8 +6,8 @@ import Link from 'next/link';
 const TableTime = () => {
   const openingHours = [
     { day: 'Monday - Thursday', time: 'From 11:00 to 24:00' },
-    { day: 'Friday', time: 'From 11:00 to 01:00' },
-    { day: 'Saturday', time: 'From 10:00 to 01:00' },
+    { day: 'Friday', time: 'From 11:00 to 24:00' },
+    { day: 'Saturday', time: 'From 10:00 to 24:00' },
     { day: 'Sunday', time: 'From 10:00 to 24:00' },
   ];
 

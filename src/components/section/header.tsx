@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import Button from '../ui/button';
-import MobButton from '../ui/mobbutton'; // Import mobile button
 
 const Header = () => {
   // State to control mobile menu visibility
@@ -61,7 +60,7 @@ const Header = () => {
                 alt="Al Taj Ristorante"
                 width={300}
                 height={300}
-                className="h-16 lg:h-20 w-auto"
+                className="h-20 lg:h-24 w-auto"
               />
             </div>
 
@@ -129,25 +128,6 @@ const Header = () => {
                 </span>
               </div>
               
-              {/* SHOPPING CART BUTTON */}
-              <button className="text-white hover:text-amber-400 transition-colors duration-300">
-                {/* CUSTOMIZATION: Add onClick handler for cart functionality */}
-                <svg
-                  className="w-6 h-6"
-                  // CUSTOMIZATION: Change cart icon size with 'w-6 h-6'
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M3 3h2l.4 2M7 13h10l4-8H5.4m0 0L7 13m0 0l-2.293 2.293a1 1 0 00-.707 1.707L15 13"
-                  />
-                </svg>
-              </button>
-              
               {/* DESKTOP BOOK TABLE BUTTON */}
               <Button />
               {/* CUSTOMIZATION: This imports from '../ui/button' - modify that component for button styling */}
@@ -160,11 +140,10 @@ const Header = () => {
                   - Change spacing: modify 'space-x-2'
               */}
               
-              {/* MOBILE BOOK TABLE BUTTON - Using custom mobile button component */}
-              <MobButton />
+                {/* MOBILE BOOK TABLE BUTTON */}
+                <Button />
               {/* CUSTOMIZATION: 
-                  - This imports from '../ui/mobbutton' 
-                  - Modify that component's styling directly in mobbutton.tsx
+                  - Uses the same shared '../ui/button' component as desktop
                   - Change padding, font-size, border, etc. in the styled component
               */}
               
@@ -172,7 +151,7 @@ const Header = () => {
               {!isMobileMenuOpen && (
                 <button
                   onClick={toggleMobileMenu}
-                  className="text-white hover:text-amber-400 transition-colors duration-300 p-1 bg-[#A48134] rounded-md"
+                  className="text-white hover:text-amber-400 transition-colors duration-300 p-1 bg-[#d5a641] rounded-md"
                   // CUSTOMIZATION: 
                   // - Change padding: modify 'p-1'
                   // - Change colors: modify text and hover colors
@@ -326,14 +305,13 @@ PHONE SECTION CUSTOMIZATION:
 - Layout: Uses flex-col to stack vertically - change to flex-row for horizontal
 
 MOBILE BUTTON CUSTOMIZATION:
-- The mobile button is now imported from '../ui/mobbutton'
-- To modify its appearance, edit the mobbutton.tsx file directly
-- Current styling: padding: 0.6em 1.1em, font-size: 15px, golden background
-- Modify the styled-components CSS in mobbutton.tsx for changes
+- Mobile now uses the same shared '../ui/button' component as desktop
+- To modify its appearance, edit button.tsx
+- Adjust padding, font-size, border radius, and hover animation there
 
 MOBILE SPECIFIC CHANGES:
 - Logo size: Modify 'h-14' in mobile header and mobile menu
-- Button: Now uses MobButton component - edit mobbutton.tsx for styling
+- Button: Uses shared button.tsx component on mobile and desktop
 - Menu width: Change 'w-full' for mobile menu width
 - Menu slide direction: Change translate classes for right-side menu
 - Header height: Now 'h-24' (increased from h-20)
@@ -369,12 +347,11 @@ RESPONSIVE BREAKPOINTS:
 - 2xl: 1536px and up
 
 SUGGESTIONS:
-1. Add cart item count badge to shopping cart icon
-2. Add active state styling for current page in navigation
-3. Add dropdown menus for navigation items with sub-pages
-4. Add search functionality in mobile menu
-5. Add social media links in mobile menu footer
-6. Add language switcher for multi-language support
-7. Add theme toggle (dark/light mode)
-8. Add notification/announcement bar above header
+1. Add active state styling for current page in navigation
+2. Add dropdown menus for navigation items with sub-pages
+3. Add search functionality in mobile menu
+4. Add social media links in mobile menu footer
+5. Add language switcher for multi-language support
+6. Add theme toggle (dark/light mode)
+7. Add notification/announcement bar above header
 */
