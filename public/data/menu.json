@@ -236,6 +236,126 @@
     "image": "/images/MIX-GRILL-AL-TAJ-1.png",
     "category": "TANDOOR AND GRILL SPECIALTIES"
   },
+  {
+    "id": 206,
+    "name": "Panino Kebab",
+    "slug": "panino-kebab",
+    "shortDescription": "Toasted kebab sandwich",
+    "description": "Warm panino stuffed with kebab meat, fresh salad, onions, and signature sauce.",
+    "price": "€4.50",
+    "image": "/images/Panino-Kebab-Internet.png",
+    "category": "TANDOOR AND GRILL SPECIALTIES"
+  },
+  {
+    "id": 207,
+    "name": "Chicken Cheese Kebab",
+    "slug": "chicken-cheese-kebab",
+    "shortDescription": "Cheesy chicken kebab",
+    "description": "Juicy chicken kebab served with melted cheese and aromatic house spices.",
+    "price": "€8.00",
+    "image": "/images/Chicken-Cheese-Kebab-Internet.png",
+    "category": "TANDOOR AND GRILL SPECIALTIES"
+  },
+  {
+    "id": 208,
+    "name": "Kofte Grill",
+    "slug": "kofte-grill",
+    "shortDescription": "Grilled kofte skewers",
+    "description": "Seasoned minced meat kofte grilled on skewers, served hot with herbs and lemon.",
+    "price": "€8.00",
+    "image": "/images/Kofte-Grill-Internet.png",
+    "category": "TANDOOR AND GRILL SPECIALTIES"
+  },
+  {
+    "id": 209,
+    "name": "Kebab Plate",
+    "slug": "kebab-plate",
+    "shortDescription": "Mixed kebab platter",
+    "description": "A generous kebab plate with grilled meat slices, salad, and house dressing.",
+    "price": "€6.00",
+    "image": "/images/Kebab-Internet.png",
+    "category": "TANDOOR AND GRILL SPECIALTIES"
+  },
+  {
+    "id": 210,
+    "name": "Piadina Kebab",
+    "slug": "piadina-kebab",
+    "shortDescription": "Soft piadina wrap with kebab",
+    "description": "Freshly grilled kebab wrapped in piadina with salad, onions, and house sauce.",
+    "price": "€5.00",
+    "image": "/images/piadina-kebab.png",
+    "category": "TANDOOR AND GRILL SPECIALTIES"
+  },
+  {
+    "id": 211,
+    "name": "Burger Chicken",
+    "slug": "burger-chicken",
+    "shortDescription": "Chicken burger with grilled vegetables",
+    "description": "Chicken burger with tomato, salad, grilled onions, cheddar, grilled zucchini, and house sauce.",
+    "price": "€6.00",
+    "image": "/images/Burger-Chicken-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 212,
+    "name": "Cotoletta Burger",
+    "slug": "cotoletta-burger",
+    "shortDescription": "Crispy chicken cutlet burger",
+    "description": "Chicken cutlet burger with salad, tomato, cheddar, and mayonnaise.",
+    "price": "€7.00",
+    "image": "/images/Cotoletta-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 213,
+    "name": "Manzo Burger",
+    "slug": "manzo-burger",
+    "shortDescription": "Beef burger with cheddar",
+    "description": "Beef burger with salad, tomato, peppers, onions, cheddar, mayonnaise, and burger sauce.",
+    "price": "€7.00",
+    "image": "/images/Manzo-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 214,
+    "name": "Al Taj Burger",
+    "slug": "al-taj-burger",
+    "shortDescription": "Spicy house special chicken burger",
+    "description": "Chicken cutlet burger with salad, tomato, spicy green chili, BBQ sauce, cheddar, grilled onions, and fries on the side.",
+    "price": "€8.00",
+    "image": "/images/Al-Taj-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 215,
+    "name": "Cheese Burger",
+    "slug": "cheese-burger",
+    "shortDescription": "Beef burger with egg and cheese",
+    "description": "Beef burger with egg, onion, tomato, salad, ketchup, and mayonnaise.",
+    "price": "€8.00",
+    "image": "/images/Cheese-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 216,
+    "name": "Fish Burger",
+    "slug": "fish-burger",
+    "shortDescription": "Fish fillet burger",
+    "description": "Fish cutlet burger with salad, cheddar, and mayonnaise.",
+    "price": "€7.00",
+    "image": "/images/Fish-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
+  {
+    "id": 217,
+    "name": "Vegano Burger",
+    "slug": "vegano-burger",
+    "shortDescription": "Vegan burger with grilled vegetables",
+    "description": "Vegan burger with grilled vegetables, tomato, salad, hamburger sauce, and fries on the side.",
+    "price": "€8.00",
+    "image": "/images/Vegano-Burger-Internet.jpg",
+    "category": "BURGERS (HALAL)"
+  },
  
   {
     "id": 31,
