@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import Button from '../ui/button';
 
 const Header = () => {
@@ -13,14 +14,17 @@ const Header = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
 
-  // Navigation menu items - Add/remove items here to modify navigation
+  const menuSectionItems = [
+    { name: 'Full Menu', href: '/menu' },
+    { name: 'Fast Food', href: '/fast-food' },
+    { name: 'Desi Food', href: '/desi-food' },
+  ];
+
   const menuItems = [
     { name: 'Home', href: '/#' },
-    { name: 'Menu', href: '/menu' },
     { name: 'Order', href: '/menu' },
     { name: 'Our Story', href: '/ourstory' },
     { name: 'Contact', href: '/contact' },
-    // To add new menu item: { name: 'New Item', href: '/new-link' },
   ];
 
   return (
@@ -70,6 +74,32 @@ const Header = () => {
                   - Change spacing between items: modify 'space-x-8'
                   - Show on smaller screens: change 'hidden lg:flex' to 'hidden md:flex'
               */}
+              <div className="relative group">
+                <Link
+                  href="/menu"
+                  className="text-white hover:text-amber-400 transition-colors duration-300 font-serif text-lg font-medium flex items-center gap-2"
+                >
+                  Menu
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                </Link>
+
+                <div className="absolute left-0 top-full pt-3 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50">
+                  <div className="w-56 rounded-xl border border-amber-400/25 bg-[#100C07] shadow-2xl p-2">
+                    {menuSectionItems.map((item) => (
+                      <a
+                        key={item.name}
+                        href={item.href}
+                        className="block rounded-lg px-3 py-2 text-white hover:text-amber-400 hover:bg-amber-400/10 transition-colors duration-300 font-serif text-base"
+                      >
+                        {item.name}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
               {menuItems.map((item) => (
                 <a
                   key={item.name}
@@ -261,6 +291,27 @@ const Header = () => {
             */}
             <div className="space-y-6">
               {/* CUSTOMIZATION: Change spacing between menu items with 'space-y-6' */}
+              <Link
+                href="/menu"
+                className="block text-white hover:text-amber-400 transition-colors duration-300 font-serif text-xl font-medium"
+                onClick={toggleMobileMenu}
+              >
+                Menu
+              </Link>
+
+              <div className="pl-4 border-l border-amber-400/20 space-y-3">
+                {menuSectionItems.map((item) => (
+                  <a
+                    key={item.name}
+                    href={item.href}
+                    className="block text-gray-200 hover:text-amber-400 transition-colors duration-300 font-serif text-lg"
+                    onClick={toggleMobileMenu}
+                  >
+                    {item.name}
+                  </a>
+                ))}
+              </div>
+
               {menuItems.map((item) => (
                 <a
                   key={item.name}

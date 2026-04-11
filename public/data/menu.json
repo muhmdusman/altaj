@@ -244,7 +244,7 @@
     "description": "Warm panino stuffed with kebab meat, fresh salad, onions, and signature sauce.",
     "price": "€4.50",
     "image": "/images/Panino-Kebab-Internet.png",
-    "category": "TANDOOR AND GRILL SPECIALTIES"
+    "category": "KEBAB"
   },
   {
     "id": 207,
@@ -268,13 +268,13 @@
   },
   {
     "id": 209,
-    "name": "Kebab Plate",
+    "name": "Piatto Kebab",
     "slug": "kebab-plate",
-    "shortDescription": "Mixed kebab platter",
-    "description": "A generous kebab plate with grilled meat slices, salad, and house dressing.",
-    "price": "€6.00",
-    "image": "/images/Kebab-Internet.png",
-    "category": "TANDOOR AND GRILL SPECIALTIES"
+    "shortDescription": "Piatto kebab con insalata mista",
+    "description": "Carne di kebab, patatine, insalata mista, salsa yogurt e piccante.",
+    "price": "€8.00",
+    "image": "/images/piatto-kebab.png",
+    "category": "KEBAB"
   },
   {
     "id": 210,
@@ -284,7 +284,7 @@
     "description": "Freshly grilled kebab wrapped in piadina with salad, onions, and house sauce.",
     "price": "€5.00",
     "image": "/images/piadina-kebab.png",
-    "category": "TANDOOR AND GRILL SPECIALTIES"
+    "category": "KEBAB"
   },
   {
     "id": 211,
@@ -293,7 +293,7 @@
     "shortDescription": "Chicken burger with grilled vegetables",
     "description": "Chicken burger with tomato, salad, grilled onions, cheddar, grilled zucchini, and house sauce.",
     "price": "€6.00",
-    "image": "/images/Burger-Chicken-Internet.jpg",
+    "image": "/images/burger-chicken.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -303,7 +303,7 @@
     "shortDescription": "Crispy chicken cutlet burger",
     "description": "Chicken cutlet burger with salad, tomato, cheddar, and mayonnaise.",
     "price": "€7.00",
-    "image": "/images/Cotoletta-Burger-Internet.jpg",
+    "image": "/images/cotoletta-burger.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -313,7 +313,7 @@
     "shortDescription": "Beef burger with cheddar",
     "description": "Beef burger with salad, tomato, peppers, onions, cheddar, mayonnaise, and burger sauce.",
     "price": "€7.00",
-    "image": "/images/Manzo-Burger-Internet.jpg",
+    "image": "/images/manzo-burger.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -323,7 +323,7 @@
     "shortDescription": "Spicy house special chicken burger",
     "description": "Chicken cutlet burger with salad, tomato, spicy green chili, BBQ sauce, cheddar, grilled onions, and fries on the side.",
     "price": "€8.00",
-    "image": "/images/Al-Taj-Burger-Internet.jpg",
+    "image": "/images/altaj-burger.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -333,7 +333,7 @@
     "shortDescription": "Beef burger with egg and cheese",
     "description": "Beef burger with egg, onion, tomato, salad, ketchup, and mayonnaise.",
     "price": "€8.00",
-    "image": "/images/Cheese-Burger-Internet.jpg",
+    "image": "/images/cheese-burger.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -343,7 +343,7 @@
     "shortDescription": "Fish fillet burger",
     "description": "Fish cutlet burger with salad, cheddar, and mayonnaise.",
     "price": "€7.00",
-    "image": "/images/Fish-Burger-Internet.jpg",
+    "image": "/images/fish-burger.png",
     "category": "BURGERS (HALAL)"
   },
   {
@@ -1013,51 +1013,51 @@
     "id": 98,
     "name": "Akhrot Halwa",
     "slug": "akhrot-halwa",
-    "shortDescription": "Nut-based Indian sweet",
-    "description": "Thick and rich dessert made with nuts, milk, and butter for a creamy and flavorful taste.",
-    "price": "€4.00",
-    "image": "/images/AKHROT-HALWA.png",
-    "category": "INDIAN DESSERTS"
+    "shortDescription": "Noci, latte fresco, zucchero, burro",
+    "description": "Dolce tradizionale preparato con noci, latte fresco, zucchero e burro.",
+    "price": "€10 Al kg",
+    "image": "/images/akhrot-halwa.png",
+    "category": "DOLCE"
   },
   {
     "id": 99,
     "name": "Coconut Halwa",
     "slug": "coconut-halwa",
-    "shortDescription": "Creamy coconut sweet",
-    "description": "Traditional Indian halwa made with fresh coconut, milk, and butter for a rich flavor.",
-    "price": "€4.00",
-    "image": "/images/Coconut-Halwa.png",
-    "category": "INDIAN DESSERTS"
+    "shortDescription": "Cocco, latte fresco, zucchero, burro, latte in polvere",
+    "description": "Halwa al cocco con latte fresco, zucchero, burro e latte in polvere.",
+    "price": "€10 Al kg",
+    "image": "/images/cocunut-halwa.png",
+    "category": "DOLCE"
   },
   {
     "id": 100,
     "name": "Barfi",
     "slug": "barfi",
-    "shortDescription": "Milk-based Indian sweet",
-    "description": "Delicious dessert made with condensed milk, sugar, and walnuts, thick and creamy.",
-    "price": "€4.00",
-    "image": "/images/Barfi.png",
-    "category": "INDIAN DESSERTS"
+    "shortDescription": "Latte fresco, zucchero, pistacchi, mandorle, burro, latte in polvere",
+    "description": "Dolce al latte con pistacchi e mandorle, lavorato con burro e latte in polvere.",
+    "price": "€10 Al kg",
+    "image": "/images/barfi.png",
+    "category": "DOLCE"
   },
   {
     "id": 101,
-    "name": "Ras Gulla",
+    "name": "Ras Gula",
     "slug": "ras-gulla",
-    "shortDescription": "Milk balls in syrup",
-    "description": "Soft and spongy dessert made with fresh milk balls soaked in sugar syrup.",
-    "price": "€4.00",
-    "image": "/images/RAS-GULLA.png",
-    "category": "INDIAN DESSERTS"
+    "shortDescription": "Latte fresco, zucchero, amido di mais, farina 00, lievito, coloranti",
+    "description": "Ras gula morbido e dolce con latte fresco, zucchero e una miscela tradizionale di farine.",
+    "price": "€10 Al kg",
+    "image": "/images/ras-gula.png",
+    "category": "DOLCE"
   },
   {
     "id": 102,
     "name": "Gulab Jamun",
     "slug": "gulab-jamun",
-    "shortDescription": "Fried milk sweet",
-    "description": "Famous Indian dessert made with powdered milk and flour, fried and soaked in sugar syrup.",
-    "price": "€4.00",
-    "image": "/images/GULAB-JAMAN.png",
-    "category": "INDIAN DESSERTS"
+    "shortDescription": "Latte in polvere, uova, burro, zucchero, farina 00, bicarbonato di sodio",
+    "description": "Dolce classico fritto e immerso nello sciroppo, preparato con latte in polvere e farina 00.",
+    "price": "€10 Al kg",
+    "image": "/images/julab-jamun.png",
+    "category": "DOLCE"
   },
   {
     "id": 103,
@@ -1081,13 +1081,43 @@
   },
   {
     "id": 105,
-    "name": "Gajrela (Winter Production)",
-    "slug": "gajrela",
-    "shortDescription": "Carrot-based sweet",
-    "description": "Seasonal dessert made with fresh carrots, milk, pistachios, and almonds, rich and flavorful.",
-    "price": "€4.00",
-    "image": "/images/Gajrela-.png",
-    "category": "INDIAN DESSERTS"
+    "name": "Gajjar Halwa",
+    "slug": "gajjar-halwa",
+    "shortDescription": "Carote, latte, zucchero, burro chiarificato",
+    "description": "Dolce caldo di carote con latte, zucchero e burro chiarificato.",
+    "price": "€10 Al kg",
+    "image": "/images/gajjar-halwa.png",
+    "category": "DOLCE"
+  },
+  {
+    "id": 218,
+    "name": "Mix Mithai",
+    "slug": "mix-mithai",
+    "shortDescription": "Assortimento di dolci misti",
+    "description": "Selezione di gulab jamun, ras gula, barfi, cocco e halwa.",
+    "price": "€10 Al kg",
+    "image": "/images/mix-mithai.png",
+    "category": "DOLCE"
+  },
+  {
+    "id": 219,
+    "name": "Red Galebi",
+    "slug": "red-galebi",
+    "shortDescription": "Farina, zucchero, zafferano",
+    "description": "Jalebi rossa croccante con sciroppo allo zafferano.",
+    "price": "€8 Al kg",
+    "image": "/images/red-jaalebi.png",
+    "category": "DOLCE"
+  },
+  {
+    "id": 220,
+    "name": "White Galebi",
+    "slug": "white-galebi",
+    "shortDescription": "Farina, lenticchie bianche",
+    "description": "Versione bianca della jalebi, dolce e delicata.",
+    "price": "€10 Al kg",
+    "image": "/images/white-jalebi.png",
+    "category": "DOLCE"
   },
   {
     "id": 106,
