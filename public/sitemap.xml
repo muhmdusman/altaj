@@ -15,7 +15,32 @@
 <url>
   <loc>https://altaj-ristorante.it/menu</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://altaj-ristorante.it/fast-food</loc>
+  <lastmod>2025-10-04T21:26:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://altaj-ristorante.it/desi-food</loc>
+  <lastmod>2025-10-04T21:26:05+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://altaj-ristorante.it/drink</loc>
+  <lastmod>2025-10-04T21:26:05+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://altaj-ristorante.it/grill-chicken</loc>
+  <lastmod>2025-10-04T21:26:05+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://altaj-ristorante.it/sweet</loc>
+  <lastmod>2025-10-04T21:26:05+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/ourstory</loc>
@@ -40,977 +65,977 @@
 <url>
   <loc>https://altaj-ristorante.it/menu/mozzarella-stick</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-wings-5-pcs</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/nuggets</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/spiral-chips</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/french-fries</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/veggie-tikki</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/samosa-plate</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/samosa-chat</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gool-gappe</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/sabzi-samosa</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-pakora</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/fish-pakora</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/baingan-pakora</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/paneer-pakora</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/onion-bhaggi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mix-pakora</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-skewers</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/beef-steak</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-steak</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/tandoor-prawns</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/fish-tikka-tandoor</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-seekh-kebab</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/seekh-kebab</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-wings</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mix-grill-al-taj</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/malai-tikka-tandoori</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-tandoori</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-tikka-tandoor</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/karai-paneer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/navratan-korma</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/bengan-bartha</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/aloo-matar</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shahi-paneer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/channa-paneer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/aloo-palak</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/okra-bindi-masala</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/palak-paneer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mix-sabzi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/daal-masoor</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/daal-mash</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/daal-makhni</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-sweet-and-sour</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/butter-chicken</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-tikka-masala</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-jalfrezi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-palik</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-chili-taj</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-vindaloo</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/madras-chicken-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mughlai-chicken-korma</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/aloo-kima</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/kima-mattr</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-palak</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-vindaloo</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-korma</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-moughlai-korma</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-karai</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-madras-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-masala</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-and-zucchini</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/fish-jalfrezi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/kirla-fish-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/goan-fish-curry</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/basmati-rice</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/zeera-rice</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mutter-pilao</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/sabzi-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-tikka-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/jungli-pilao</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/sekh-kebab-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lamb-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-biryani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/vegetable-soup</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/dal-soup</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/tomato-soup</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chicken-corn-soup</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/kulcha</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naan-garlic</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/qeema-naan</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naan-paneer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naan-afghani</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naan-sada-o-roghni</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naan-aloo</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/rotti</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/akhrot-halwa</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/coconut-halwa</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/barfi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/ras-gulla</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gulab-jamun</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/kheer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/ras-malay</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gajrela</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mango-lassi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/namak-lassi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/pudina-lassi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lassi</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/strawberry-shake</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/banana-shake</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mango-shake</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/bavarian-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gorgo-salami-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/light-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/doc-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/shrimp-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/vegetarian-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/margellina-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/parmigiana-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/caprese-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/pizza-kebab</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gorgonzola-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/apulian-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/spicy-salami-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/roman-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/naples-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/american-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/french-fries-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/halal-sausage-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/four-cheeses-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mother-in-law-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/arugula-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/devil-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/tasty-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/squid-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/porcini-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/genoese-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/four-seasons-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/capricious-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/ham-mushrooms-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/dried-ham-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/artichokes-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mushrooms-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/margherita-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/marinara-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/punjabi-pizza</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/delight</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gorgo-noci</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/star</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gorgo-asparagus</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/coast</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/sea-and-mountains</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/at-the-taj</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/novella</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/italy</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mediterranean</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/calabrian</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/taggiasca</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/trevisana</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/valtellina</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/buffalo</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lombarda</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chiari</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/mareblu</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/calzone-kebab</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/angry-calzone</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/stuffed-calzone</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/normal-calzone</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/smooth-calzone</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/qahwa</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/sabaz-chaye</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/chaye</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/cappuccino</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/large-ginseng</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/small-ginseng</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/large-barley-coffee</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/small-barley-coffee</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/deca-coffee</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/coffee</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/corrected-coffee</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/heineken-beer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/becks-beer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/red-bull</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/corona-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/ceres-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/bud-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/heineken-0-0-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/heineken-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/becks-33cl</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/moretti-beer</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/cabernet-serena</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/montenetto-rosso-bio-barone-pizzini</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/curtefranca-rosso-bio-barone-pizzini</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/montenetto-red-stag-beetle-barone-pizzini</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/court-of-the-red-wolf-ca-del-bosco</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/from-hand-to-hand-cavalleri</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/plumbago-planeta-nero-d-avola</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/curtefranca-bianco-ferghettina</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/lugana-zenato</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/montenetto-bianco-barone-pizzini</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/gewurztraminer-aldeno</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/rampaneto-curtefranca-bianco-cavalleri</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://altaj-ristorante.it/menu/court-of-the-white-wolf-ca-del-bosco</loc>
   <lastmod>2025-10-04T21:26:05+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.80</priority>
 </url>
 
 
