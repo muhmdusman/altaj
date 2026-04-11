@@ -8,16 +8,29 @@ import Button from '../ui/button';
 const Header = () => {
   // State to control mobile menu visibility
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isMobileMenuSectionOpen, setIsMobileMenuSectionOpen] = useState(true);
 
   // Function to toggle mobile menu open/close
   const toggleMobileMenu = () => {
-    setIsMobileMenuOpen(!isMobileMenuOpen);
+    const nextState = !isMobileMenuOpen;
+    setIsMobileMenuOpen(nextState);
+
+    if (nextState) {
+      setIsMobileMenuSectionOpen(true);
+    }
+  };
+
+  const toggleMobileMenuSection = () => {
+    setIsMobileMenuSectionOpen((previousState) => !previousState);
   };
 
   const menuSectionItems = [
     { name: 'Full Menu', href: '/menu' },
     { name: 'Fast Food', href: '/fast-food' },
     { name: 'Desi Food', href: '/desi-food' },
+    { name: 'Sweet', href: '/sweet' },
+    { name: 'Grill & Chicken', href: '/grill-chicken' },
+    { name: 'Drink', href: '/drink' },
   ];
 
   const menuItems = [
@@ -88,20 +101,20 @@ const Header = () => {
                 <div className="absolute left-0 top-full pt-3 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-50">
                   <div className="w-56 rounded-xl border border-amber-400/25 bg-[#100C07] shadow-2xl p-2">
                     {menuSectionItems.map((item) => (
-                      <a
+                      <Link
                         key={item.name}
                         href={item.href}
                         className="block rounded-lg px-3 py-2 text-white hover:text-amber-400 hover:bg-amber-400/10 transition-colors duration-300 font-serif text-base"
                       >
                         {item.name}
-                      </a>
+                      </Link>
                     ))}
                   </div>
                 </div>
               </div>
 
               {menuItems.map((item) => (
-                <a
+                <Link
                   key={item.name}
                   href={item.href}
                   className="text-white hover:text-amber-400 transition-colors duration-300 font-serif text-lg font-medium"
@@ -113,7 +126,7 @@ const Header = () => {
                   // - Font weight: modify 'font-medium'
                 >
                   {item.name}
-                </a>
+                </Link>
               ))}
             </nav>
 
@@ -291,29 +304,41 @@ const Header = () => {
             */}
             <div className="space-y-6">
               {/* CUSTOMIZATION: Change spacing between menu items with 'space-y-6' */}
-              <Link
-                href="/menu"
-                className="block text-white hover:text-amber-400 transition-colors duration-300 font-serif text-xl font-medium"
-                onClick={toggleMobileMenu}
+              <button
+                onClick={toggleMobileMenuSection}
+                className="w-full flex items-center justify-between text-white hover:text-amber-400 transition-colors duration-300 font-serif text-xl font-medium"
               >
-                Menu
-              </Link>
-
-              <div className="pl-4 border-l border-amber-400/20 space-y-3">
-                {menuSectionItems.map((item) => (
-                  <a
-                    key={item.name}
-                    href={item.href}
-                    className="block text-gray-200 hover:text-amber-400 transition-colors duration-300 font-serif text-lg"
-                    onClick={toggleMobileMenu}
+                <span>Menu Sections</span>
+                <span className="flex items-center gap-2 text-sm text-gray-300">
+                  {isMobileMenuSectionOpen ? 'Close' : 'Open'}
+                  <svg
+                    className={`w-5 h-5 transition-transform duration-300 ${isMobileMenuSectionOpen ? 'rotate-180' : ''}`}
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
                   >
-                    {item.name}
-                  </a>
-                ))}
-              </div>
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                </span>
+              </button>
+
+              {isMobileMenuSectionOpen && (
+                <div className="pl-4 border-l border-amber-400/20 space-y-3">
+                  {menuSectionItems.map((item) => (
+                    <Link
+                      key={item.name}
+                      href={item.href}
+                      className="block text-gray-200 hover:text-amber-400 transition-colors duration-300 font-serif text-lg"
+                      onClick={toggleMobileMenu}
+                    >
+                      {item.name}
+                    </Link>
+                  ))}
+                </div>
+              )}
 
               {menuItems.map((item) => (
-                <a
+                <Link
                   key={item.name}
                   href={item.href}
                   className="block text-white hover:text-amber-400 transition-colors duration-300 font-serif text-xl font-medium"
@@ -326,7 +351,7 @@ const Header = () => {
                   // Close menu when item is clicked
                 >
                   {item.name}
-                </a>
+                </Link>
               ))}
             </div>
           </nav>
