@@ -48,5 +48,5 @@ Then open in your browser:
 ```bash
 http://localhost:3000
 ```
-Developed by Usman
+Developed by Muhammad Usman
 Built with ❤️ using Next.js, TypeScript, and Tailwind CSS
